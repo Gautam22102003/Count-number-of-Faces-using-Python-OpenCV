@@ -51,3 +51,10 @@ while True:
 # Release the capture and destroy the windows 
 cap.release() 
 cv2.destroyAllWindows() 
+
+"""
+Output:
+Number of faces present in the picture: 2 😁😁
+"""
+# If you find any error in this code , kindly email : shriinathg2203@gmail.com 👍.
+# Keep coding 💻
